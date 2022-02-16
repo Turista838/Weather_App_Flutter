@@ -1,16 +1,12 @@
 # weather_app
 
-Weather Forecast Application
+Project developed for 'Mobile Architectures', a third year subject @ISEC
 
-## Getting Started
+This project consists in a Weather App that informs you about the current weather and forecast up to 7 days. You can select a forecast to see more details. 
+It uses AccuWeather API.
+Supports English and Portuguese language.
 
-This project is a starting point for a Flutter application.
+![app screenshot](https://imgur.com/a/KsG16NN)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Used packages:
+* 
