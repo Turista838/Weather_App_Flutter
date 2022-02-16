@@ -235,10 +235,10 @@ class _MyHomePageState extends State<MyHomePage> with TickerProviderStateMixin {
       //_listViewStr = (prefs.getString('listViewStr') ?? S.of(context).meteoDaysThree);
       _listViewSize = (prefs.getInt('listViewSize') ?? 5);
 
-      if (_listViewSize == 3) {
+      if (_listViewSize == 5) {
         _listViewStr = S.of(context).meteoDaysThree;
       } else {
-        if (_listViewSize == 5) {
+        if (_listViewSize == 3) {
           _listViewStr = S.of(context).meteoDaysFive;
         } else {
           _listViewStr = S.of(context).meteoDaysSeven;
