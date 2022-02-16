@@ -10,6 +10,7 @@ Project developed for 'Mobile Architectures', a third year subject @ISEC
 
 ### Used packages:
 * [Http](https://pub.dev/packages/http)
+* [Intl](https://pub.dev/packages/intl)
 * [Location](https://pub.dev/packages/location)
 * [Geocoding](https://pub.dev/packages/geocoding)
 * [Shared Preferences](https://pub.dev/packages/shared_preferences)
