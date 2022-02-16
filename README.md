@@ -9,4 +9,8 @@ Project developed for 'Mobile Architectures', a third year subject @ISEC
 ![app screenshot](https://i.imgur.com/dmD2qzq.png)
 
 ### Used packages:
-* 
+* [Http](https://pub.dev/packages/http)
+* [Location](https://pub.dev/packages/location)
+* [Geocoding](https://pub.dev/packages/geocoding)
+* [Shared Preferences](https://pub.dev/packages/shared_preferences)
+* [Native Splash](https://pub.dev/packages/flutter_native_splash)
